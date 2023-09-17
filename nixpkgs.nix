@@ -1,3 +1,3 @@
 import (fetchTarball {
-  url = "https://s5.vgg.cool/nixos-23.05.tar.gz";
+  url = "https://github.com/verygoodgraphics/nixpkgs/archive/refs/tags/unstable-20230917.tar.gz";
 })
